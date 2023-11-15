@@ -1,0 +1,49 @@
+/* Write your CSS here */
+.container1 {
+  height: 100vh;
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.container2 {
+  background-image: linear-gradient(#ff6e7f, #bfe9ff);
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 60%;
+  height: 80%;
+  border-radius: 10px;
+  border-width: 0px;
+}
+.heading-style {
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: bold;
+  color: #0f172a;
+}
+.paragraph1-style {
+  font-family: 'Roboto';
+  font-size: 25px;
+  font-weight: 500;
+  color: #334155;
+}
+.button-style {
+  font-family: 'Roboto';
+  font-size: 17px;
+  font-weight: 500;
+  color: #1e293b;
+  border-radius: 8px;
+  border-width: 0px;
+  padding: 12px;
+  cursor: pointer;
+  outline: none;
+}
+.paragraph2-style {
+  font-family: 'Roboto';
+  font-size: 15px;
+  font-weight: 400;
+  color: #1e293b;
+}
